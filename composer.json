@@ -1,0 +1,15 @@
+{
+    "name": "willy/mvcphp",
+    "authors": [
+        {
+            "name": "WillNatan",
+            "email": "willy97438@live.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "App\\":"src/"
+        }
+    },
+    "require": {}
+}
